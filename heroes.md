@@ -6,5 +6,3 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
-* Volcán Negro
-* Volcán Blanco
